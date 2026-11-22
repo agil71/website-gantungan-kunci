@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf6f2"/>
+      <stop offset="1" stop-color="#eee0d6"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6b4a38"/>
+      <stop offset="0.5" stop-color="#523526"/>
+      <stop offset="1" stop-color="#3c2519"/>
+    </linearGradient>
+    <filter id="sh" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#4a2d1d" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <circle cx="130" cy="140" r="74" fill="#ffffff" opacity="0.45"/>
+  <circle cx="690" cy="660" r="100" fill="#f4663f" opacity="0.1"/>
+  <g filter="url(#sh)">
+    <circle cx="400" cy="188" r="46" fill="none" stroke="#9fa6b2" stroke-width="15"/>
+    <rect x="389" y="228" width="22" height="40" rx="11" fill="#9fa6b2"/>
+    <path d="M400 264 L520 310 Q540 320 537 356 L518 580 Q515 612 480 616 L320 616 Q285 612 282 580 L263 356 Q260 320 280 310 Z" fill="url(#body)"/>
+    <path d="M400 294 L498 333 Q512 340 510 365 L493 568 Q491 588 470 590 L330 590 Q309 588 307 568 L290 365 Q288 340 302 333 Z" fill="none" stroke="#e0b88c" stroke-width="4" stroke-dasharray="10 10" opacity="0.75"/>
+    <circle cx="400" cy="318" r="12" fill="#c79b6a"/>
+    <circle cx="400" cy="318" r="5" fill="#3c2519"/>
+    <text x="400" y="492" text-anchor="middle" font-family="Georgia, serif" font-size="96" font-weight="bold" fill="#c79b6a" opacity="0.9">GK</text>
+    <path d="M340 530 q60 26 120 0" fill="none" stroke="#c79b6a" stroke-width="5" opacity="0.6" stroke-linecap="round"/>
+  </g>
+</svg>

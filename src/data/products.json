@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nama_produk": "Keychain Akrilik Custom",
+    "kategori": "Akrilik",
+    "harga": 15000,
+    "deskripsi": "Gantungan kunci akrilik bening dengan cetakan desain penuh warna. Cocok untuk foto, logo, atau karakter favorit. Ringan, tahan air, dan hasil cetak tetap tajam.",
+    "gambar": "keychain-akrilik.svg",
+    "variasi": ["Custom Design", "Standard"],
+    "unggulan": true
+  },
+  {
+    "id": 2,
+    "nama_produk": "Keychain PVC Lucu",
+    "kategori": "PVC",
+    "harga": 20000,
+    "deskripsi": "Gantungan kunci dari bahan PVC yang fleksibel dan tidak mudah pecah. Bentuknya bisa disesuaikan dengan karakter atau maskot pilihan Anda.",
+    "gambar": "keychain-pvc.svg",
+    "variasi": ["Small", "Large"],
+    "unggulan": true
+  },
+  {
+    "id": 3,
+    "nama_produk": "Keychain Logam Antik",
+    "kategori": "Logam",
+    "harga": 25000,
+    "deskripsi": "Gantungan kunci logam dengan finishing plating antik yang elegan. Kesan premium dan awet untuk dipakai sehari-hari maupun sebagai hadiah.",
+    "gambar": "keychain-logam.svg",
+    "variasi": ["Bola Mata", "Merek"],
+    "unggulan": true
+  },
+  {
+    "id": 4,
+    "nama_produk": "Keychain Kayu Laser",
+    "kategori": "Kayu",
+    "harga": 18000,
+    "deskripsi": "Gantungan kunci kayu natural dengan ukiran cetak laser. Memberikan kesan hangat dan ramah lingkungan dengan motif yang bisa disesuaikan.",
+    "gambar": "keychain-kayu.svg",
+    "variasi": ["Natural", "Painted"],
+    "unggulan": false
+  },
+  {
+    "id": 5,
+    "nama_produk": "Keychain Kulit Premium",
+    "kategori": "Kulit",
+    "harga": 30000,
+    "deskripsi": "Gantungan kunci kulit sintetis berkualitas premium dengan jahitan rapi. Tersedia dalam beberapa warna dan cocok untuk gaya minimalis.",
+    "gambar": "keychain-kulit.svg",
+    "variasi": ["Hitam", "Coklat"],
+    "unggulan": false
+  },
+  {
+    "id": 6,
+    "nama_produk": "Keychain Serba Jadi",
+    "kategori": "Serba-Jadi",
+    "harga": 12000,
+    "deskripsi": "Keychain multifungsi yang dilengkapi pembuka botol dan ruang untuk kartu kecil. Praktis dibawa dan menjadi aksesori harian yang berguna.",
+    "gambar": "keychain-serba-jadi.svg",
+    "variasi": ["Standar"],
+    "unggulan": false
+  }
+]
